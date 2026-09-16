@@ -182,7 +182,8 @@ The website will be designed to be:
 
 The website will be hosted using GitHub Pages.
 
-**🔗 Live Portfolio:** Coming Soon 🚀
+**🔗 Live Portfolio:** 
+ 🔗 [View My Personal Portfolio Website](https://akshatha757.github.io/personal-portfolio-website/)
 
 
 **📬 CONNECT WITH ME**
